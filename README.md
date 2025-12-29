@@ -20,4 +20,5 @@ I am a Computer Science undergraduate focused on **High-Performance Computing**,
 - **Reading:** *Operating Systems: Three Easy Pieces* (OSTEP).
 
 ---
-[YOUR_LINKEDIN_URL] • [YOUR_EMAIL]
+(https://www.linkedin.com/in/aryan-srivastava-821782333/) 
+• aryansriva05@gmail.com
